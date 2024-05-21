@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-fastapi = {extras = ["all"], version = "^0.110.2"}
+fastapi = {extras = ["all"], version = "^0"}
 sqlalchemy = "^2.0.29"
 psycopg2 = "^2.9.9"
 asyncpg = "^0.29.0"
